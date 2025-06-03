@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:recipe_application_main/features/search_results/view/searchresult_screen.dart';
 import 'package:recipe_application_main/utils/constants/color_constants.dart';
 
+
 class ColumnCatgContainer extends StatefulWidget {
   final String? imagePath;
   final String catgName;
